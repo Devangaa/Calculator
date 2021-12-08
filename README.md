@@ -28,4 +28,4 @@ The simple way is to enter numeric input and operations one by one. If the input
 
 ## Social Media
 
-Bro, stop stalking people. They don't like it! But if you want to visit my social media, here my [social media](https://bit.ly/3lKHhZT).
+Bro, stop stalking people. They don't like it! But if you want to visit my social media, here my [social media](https://www.youtube.com/watch?v=z4JJ270xx98).
