@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\DERRICK\Downloads\coding #2\C++\calculator 3.0\calculator 3.0\Source.cpp(26,9): warning C4101: 'e': unreferenced local variable
+C:\Users\DERRICK\Downloads\coding #2\C++\calculator 3.0\calculator 3.0\Source.cpp(27,9): warning C4101: 'f': unreferenced local variable
+C:\Users\DERRICK\Downloads\coding #2\C++\calculator 3.0\calculator 3.0\Source.cpp(25,9): warning C4101: 'd': unreferenced local variable
+  calculator 3.0.vcxproj -> C:\Users\DERRICK\Downloads\coding #2\C++\calculator 3.0\x64\Debug\calculator 3.0.exe
