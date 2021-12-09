@@ -4,6 +4,8 @@ A simple C++ calculator with limited operation. This Calculator can perform 4 op
 
 <img width="350" alt="v3" src="https://user-images.githubusercontent.com/82499518/145354126-42c444fa-0711-4d40-9c96-1d82bb744201.png">
 
+[How to?](#usage)
+
 ## How to?
 
 Download and extract the newest version, then open the .sln file with Visual Studio. Then run it (F5 or ctrl+F5 without the debugging). If you can't, ask your mom. Bruh, imagine you can't run a C++ program in visual studio.
