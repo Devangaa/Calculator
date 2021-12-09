@@ -8,7 +8,7 @@ Download and extract selected file, then open the .sln file with Visual Studio. 
 
 ## Usage
 
-```c
+```cpp
 //opt if +
 if (opt == '+') {
 	cout << "\n" << a << " " << opt << "\n";
