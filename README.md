@@ -36,7 +36,7 @@ if (opt == '+') {
 	system("CLS");
 ```
 
-If you accidentally encounter a bug where the loop will continue to occur without being able to stop, then immediately close cmd. Possible errors from writing loops. I will fix it right away.
+If you accidentally encounter a bug where the loop will continue to occur without being able to stop, then immediately close cmd. Possible errors from writing loops. I will fix it right away. For more info, visit [usage info](USAGE-INFO.md)
 
 ## Social Media
 
