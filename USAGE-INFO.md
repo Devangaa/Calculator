@@ -6,7 +6,7 @@ In version 3.0 you can perform 4 operations, namely [simple operations](#simple-
 
 ## Simple Operations
 
-In simple operation, you can use add, subtract, multiply and divide operations. In writing input, you must enter it sequentially from numbers, then operating symbols, then numbers, and so on. If you enter the wrong input or there are letters in the input, chances are the program will force close or will [loop forever](#error).
+In simple operation, you can use add, subtract, multiply and divide operations. In writing input, you must enter it sequentially from numbers, then operating symbols, then numbers, and so on. If you enter the wrong input or there are letters in the input, chances are the program will [force close](#error) or will [loop forever](#error).
 
 ```cpp
 printf("\nInput first number variable\na = ");
@@ -21,7 +21,7 @@ system("CLS");
 
 ## Square Root
 
-In square rooting, you only need to enter one input. You just need to enter the number you want to root, and the results will appear after that. The answer can be an integer or a decimal number, so it will be more accurate. If you somehow get an error on this operation, you are an abolute [idiot](https://www.youtube.com/watch?v=z4JJ270xx98).
+In square rooting, you only need to enter one input. You just need to enter the number you want to root, and the results will appear after that. The answer can be an integer or a decimal number, so it will be more accurate. If you somehow get an [error](#error) on this operation, you are an abolute [idiot](https://www.youtube.com/watch?v=z4JJ270xx98).
 
 ```cpp
 //root system
@@ -33,7 +33,7 @@ cin >> lp;
 
 ## Cubic Root
 
-Just like square rooting, in cubic rooting you only need to enter 1 input, i.e. the number you want to root. Bro, don't tell me you got an error this time.
+Just like square rooting, in cubic rooting you only need to enter 1 input, i.e. the number you want to root. Bro, don't tell me you got an [error](#error) this time.
 
 ```cpp
 float sum = cbrt(a);
@@ -44,7 +44,7 @@ cin >> lp;
 
 ## Exponents
 
-in the exponent, you need to enter 2 inputs, the first is the base of the logarithm and the second input is the exponent. If you get an error this time, DON'T YOU KNOW THE [NUMBERS](https://en.wikipedia.org/wiki/Number)?
+in the exponent, you need to enter 2 inputs, the first is the base of the logarithm and the second input is the exponent. If you get an [error](#error) this time, DON'T YOU KNOW THE [NUMBERS](https://en.wikipedia.org/wiki/Number)?
 
 ```cpp
 printf("\nInput base number\na = ");
