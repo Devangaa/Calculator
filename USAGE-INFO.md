@@ -6,7 +6,7 @@ In version 3.0 you can perform 4 operations, namely [simple operations](#simple-
 
 ## Simple Operations
 
-In simple operation, you can use add, subtract, multiply and divide operations. In writing input, you must enter it sequentially from numbers, then operating symbols, then numbers, and so on. If you enter the wrong input or there are letters in the input, chances are the program will force close or will [loop forever]().
+In simple operation, you can use add, subtract, multiply and divide operations. In writing input, you must enter it sequentially from numbers, then operating symbols, then numbers, and so on. If you enter the wrong input or there are letters in the input, chances are the program will force close or will [loop forever](#error).
 
 ```cpp
 printf("\nInput first number variable\na = ");
@@ -71,3 +71,5 @@ If you enter the wrong input on the first try / or just run cmd, the program wil
 <img width="400" alt="error v3" src="https://user-images.githubusercontent.com/82499518/145424300-fd0307cb-8edf-4a7e-bf4f-832e55910094.png">
 
 ### Endless loop
+
+If you enter the wrong input after repeating the operation again, the program does not detect the error, but an endless loop will occur. You can't enter input at this point and the only way to solve it is to close cmd or console.
