@@ -73,3 +73,5 @@ If you enter the wrong input on the first try / or just run cmd, the program wil
 ### Endless loop
 
 If you enter the wrong input after repeating the operation again, the program does not detect the error, but an endless loop will occur. You can't enter input at this point and the only way to solve it is to close cmd or console.
+
+![endless-loop](https://user-images.githubusercontent.com/82499518/145440037-ecede1b5-9d2e-4bbf-87e7-779775103e10.gif)
