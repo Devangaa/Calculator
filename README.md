@@ -4,6 +4,7 @@ A simple C++ calculator with limited operation. This Calculator can perform 4 op
 
 <img width="350" alt="v3" src="https://user-images.githubusercontent.com/82499518/145354126-42c444fa-0711-4d40-9c96-1d82bb744201.png">
 
+List of contents:
 - [How to?](#how-to)
 - [Usage](#usage)
 - [Social Media](#social-media)
