@@ -25,14 +25,12 @@ if (opt == '+') {
 	cout << "\n" << a << " " << opt << "\n";
 	printf("b = ");
 	cin >> b;
-	this_thread::sleep_for(chrono::milliseconds(750));
 	system("CLS");
 
 	//opt2 inv
 	cout << "\n" << a << " " << opt << " " << b << "\n";
 	printf("Operation ( + | - | * | / | = ) : ");
 	cin >> opt2;
-	this_thread::sleep_for(chrono::milliseconds(750));
 	system("CLS");
 ```
 
