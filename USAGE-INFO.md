@@ -11,12 +11,10 @@ In simple operation, you can use add, subtract, multiply and divide operations. 
 ```cpp
 printf("\nInput first number variable\na = ");
 cin >> a;
-system("CLS");
 
 cout << "\n" << a;
 printf("\nOperation ( + | - | * | / ) : ");
 cin >> opt;
-system("CLS");
 ```
 
 ## Square Root
@@ -26,8 +24,6 @@ In square rooting, you only need to enter one input. You just need to enter the 
 ```cpp
 float sum = sqrt(a);
 cout << "\nsqrt(" << a << ") = " << sum;
-printf("\nRun again ? (y/n)\n");
-cin >> lp;
 ```
 
 ## Cubic Root
@@ -37,8 +33,6 @@ Just like square rooting, in cubic rooting you only need to enter 1 input, i.e. 
 ```cpp
 float sum = cbrt(a);
 cout << "\ncbrt(" << a << ") = " << sum;
-printf("\nRun again ? (y/n)\n");
-cin >> lp;
 ```
 
 ## Exponents
@@ -48,15 +42,12 @@ in the exponent, you need to enter 2 inputs, the first is the base of the logari
 ```cpp
 printf("\nInput base number\na = ");
 cin >> a;
-system("CLS");
+
 printf("\nInput exponent number\nx = ");
 cin >> b;
-system("CLS");
 
 float sum = pow(a, b);
 cout << "\n" << a << "^" << b << " = " << sum;
-printf("\nRun again ? (y/n)\n");
-cin >> lp;
 ```
 
 ## Error
