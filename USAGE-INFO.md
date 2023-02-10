@@ -21,7 +21,7 @@ system("CLS");
 
 ## Square Root
 
-In square rooting, you only need to enter one input. You just need to enter the number you want to root, and the results will appear after that. The answer can be an integer or a decimal number, so it will be more accurate. If you somehow get an [error](#error) on this operation, you are an abolute [idiot](https://www.youtube.com/watch?v=z4JJ270xx98).
+In square rooting, you only need to enter one input. You just need to enter the number you want to root, and the results will appear after that. The answer can be an integer or a decimal number, so it will be more accurate. If you somehow get an [error](#error) on this operation, you are an absolute [idiot](https://www.youtube.com/watch?v=z4JJ270xx98).
 
 ```cpp
 float sum = sqrt(a);
